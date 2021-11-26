@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style type="text/css">
+    </style>
+</head>
+<body>
+<form id="form" method="post" action="https://www.freecodecamp.com/email-submit">
+        <span>emai:</span> <input type="email"  placeholder="请输入你的邮箱">
+        <input id="submit" type="submit" value="提交" >
+
+     </form> 
+</body>
+</html>
